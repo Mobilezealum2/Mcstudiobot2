@@ -60,7 +60,7 @@ SERVICES = [
         "style": "success"
     },
     {
-        "name": "Риги",
+        "name": "Риг",
         "price": 250,
         "emoji": EMOJI_RIG,
         "style": "success"
