@@ -16,7 +16,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 logging.info(f"BOT_TOKEN loaded: {'yes' if BOT_TOKEN else 'NO — is None!'}")
 
 ADMIN_IDS = [
-    5751578912,
+    5751578912, 6020036331,
 ]
 
 logging.basicConfig(level=logging.INFO)
