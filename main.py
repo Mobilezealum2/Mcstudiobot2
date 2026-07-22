@@ -50,9 +50,9 @@ EMOJI_CROWN ="5217822164362739968"
 EMOJI_ZEALUM = "5373062717894596226"
 EMOJI_ADMIN ="5843783479904439561"
 EMOJI_MISTICA ="5372869766488824881"
-EMOJI_LENS = "5373303996272384636"
-EMOJI_SANYA ="5372869766488824881"
-EMOJI_VOPROS = "5373117942584086582"
+EMOJI_LENS = ""
+EMOJI_SANYA = "5373169525141321929"
+EMOJI_VOPROS = "5373303996272384636"
 EMOJI_MCSTUDIO2 = "5373231402735145301"
 EMOJI_INFO = "5278753302023004775"
 
@@ -170,7 +170,7 @@ async def info(message: types.Message):
 <tg-emoji emoji-id="{EMOJI_MISTICA}">👤</tg-emoji><a href="https://t.me/mistica201O">Mistica201O — Гл. Аниматор, Создатель студии</a>
 ❔️<a href="https://t.me/Lenslk">Lens — Аниматор и т.д.</a>
 <tg-emoji emoji-id="{EMOJI_SANYA}">👤</tg-emoji><a href="https://t.me/Il1idan4ik_YT">Il1idan4ik_YT — Монтажёр</a>
-<tg-emoji emoji-id="{EMOJI_LENS}">👤</tg-emoji><a href="https://t.me/vopros367">Vopros — Моделер</a>
+<tg-emoji emoji-id="{EMOJI_VPROS}">👤</tg-emoji><a href="https://t.me/vopros367">Vopros — Моделер</a>
 
 <tg-emoji emoji-id="{EMOJI_MCSTUDIO2}">👑</tg-emoji>MC Studio 2026
 """,
