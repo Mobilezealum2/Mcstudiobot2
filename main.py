@@ -170,7 +170,7 @@ async def info(message: types.Message):
 <tg-emoji emoji-id="{EMOJI_MISTICA}">👤</tg-emoji><a href="https://t.me/mistica201O">Mistica201O — Гл. Аниматор, Создатель студии</a>
 ❔️<a href="https://t.me/Lenslk">Lens — Аниматор и т.д.</a>
 <tg-emoji emoji-id="{EMOJI_SANYA}">👤</tg-emoji><a href="https://t.me/Il1idan4ik_YT">Il1idan4ik_YT — Монтажёр</a>
-<tg-emoji emoji-id="{EMOJI_VPROS}">👤</tg-emoji><a href="https://t.me/vopros367">Vopros — Моделер</a>
+<tg-emoji emoji-id="{EMOJI_VOPROS}">👤</tg-emoji><a href="https://t.me/vopros367">Vopros — Моделер</a>
 
 <tg-emoji emoji-id="{EMOJI_MCSTUDIO2}">👑</tg-emoji>MC Studio 2026
 """,
